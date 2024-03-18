@@ -18,3 +18,12 @@ cat ~/.ssh/id_rsa.pub
 ```python
 url = 'http://IP:3030/test/update'
 ```
+
+Подключение к виртуальной машине осуществляется через ssh:
+
+```
+ssh user@IP
+```
+
+псле чего необходимо установить Docker согласно [инструкции по установке](https://docs.docker.com/engine/install/ubuntu/)
+

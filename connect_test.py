@@ -6,7 +6,7 @@ from query_generate import *
 from graph_create import *
 
 # URL сервера Fuseki
-url = 'http://158.160.97.41:3030/test/update'
+url = 'http://178.154.220.21:3030/test/update'
 
 
 # Установка заголовков для отправки запроса
